@@ -68,6 +68,7 @@
 					<useSystemClassLoader>true</useSystemClassLoader>
 					<forkMode>once</forkMode>
 					<argLine>${argline}</argLine>
+					<skipTests>true</skipTests>
 					<systemProperties>
 						<!-- common shared -->
 						<property>
